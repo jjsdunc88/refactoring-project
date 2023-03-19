@@ -46,9 +46,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -91,6 +88,10 @@ article img {
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 aside {
