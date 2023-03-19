@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+               /* Header Section and Navigation Menu  */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +48,7 @@ a {
     text-decoration: none;
 }
 
-
+                    /* Main Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +58,7 @@ a {
     background-position: center;
 }
 
+                       /* Main Article Attributes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,13 +68,13 @@ a {
     float: right;
     margin-left: 25px;
 }
-
+                            
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+                           
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,7 +96,7 @@ article h2 {
 p {
     font-size: 16px;
 }
-
+                           /* Aside and Section Attributes */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +123,7 @@ section img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+                        /* Footer Attributes */
 footer {
     padding: 30px;
     clear: both;
