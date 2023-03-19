@@ -9,7 +9,7 @@ During this project I learned practical application for basic HTML & CSS concept
 
 ## Usage
 
-![alt text](/assets/images/01-html-css-git-homework-demo.png)
+![alt text](/assets/images/Screenshot%202023-03-19%20190910.png)
 
 [Click here for live website](https://jjsdunc88.github.io/refactoring-project/#online-reputation-management)
 
